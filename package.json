@@ -1,0 +1,7 @@
+{
+  "name": "go",
+  "versions": "1.0.0",
+  "scripts":{
+      "start": "sleep infinity"
+  }
+}
